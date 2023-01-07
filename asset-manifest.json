@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Nimani.closet/static/css/main.5b045581.css",
+    "main.js": "/Nimani.closet/static/js/main.d4ca273a.js",
+    "static/media/laptop.jpg": "/Nimani.closet/static/media/laptop.7435bc8e670d0c647ade.jpg",
+    "static/media/speaker.webp": "/Nimani.closet/static/media/speaker.23905a7e919a7db07e70.webp",
+    "static/media/heels.webp": "/Nimani.closet/static/media/heels.d507f055c1450adbcb51.webp",
+    "static/media/gown.webp": "/Nimani.closet/static/media/gown.6055f0ead1ddb4a92557.webp",
+    "static/media/furniture.jpg": "/Nimani.closet/static/media/furniture.329259646dab88fe1610.jpg",
+    "static/media/iphone.jpg": "/Nimani.closet/static/media/iphone.eff85db60dca043fedfe.jpg",
+    "index.html": "/Nimani.closet/index.html",
+    "main.5b045581.css.map": "/Nimani.closet/static/css/main.5b045581.css.map",
+    "main.d4ca273a.js.map": "/Nimani.closet/static/js/main.d4ca273a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b045581.css",
+    "static/js/main.d4ca273a.js"
+  ]
+}
